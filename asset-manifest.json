@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/react-send_invites/static/css/main.cd5d95a0.css",
-    "main.js": "/react-send_invites/static/js/main.93d4d327.js",
+    "main.js": "/react-send_invites/static/js/main.373a7b9e.js",
     "index.html": "/react-send_invites/index.html",
     "main.cd5d95a0.css.map": "/react-send_invites/static/css/main.cd5d95a0.css.map",
-    "main.93d4d327.js.map": "/react-send_invites/static/js/main.93d4d327.js.map"
+    "main.373a7b9e.js.map": "/react-send_invites/static/js/main.373a7b9e.js.map"
   },
   "entrypoints": [
     "static/css/main.cd5d95a0.css",
-    "static/js/main.93d4d327.js"
+    "static/js/main.373a7b9e.js"
   ]
 }
